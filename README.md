@@ -12,7 +12,7 @@ This is a simple journal application written in C++. It allows users to create, 
 1. Clone the repository to your local machine:
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/n3rma121/journal-app-cpp.git
     ```
 
 2. Navigate to the project directory:
